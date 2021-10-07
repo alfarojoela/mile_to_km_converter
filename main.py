@@ -1,6 +1,7 @@
 
 ########################
 #NON LECTURE SOLUTION
+#FORMAT IS NOT PRETTY BUT IT WORKS.
 from tkinter import *
 
 def button_clicked():
